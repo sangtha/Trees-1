@@ -1,5 +1,5 @@
 // Time Complexity : O(n) // n is number of tree nodes
-// Space Complexity : O(hn) // extra space taken by slicing the inorder and preorder arrays for left and right children traversal
+// Space Complexity : O(n) // extra space taken by slicing the inorder and preorder arrays for left and right children traversal
 // Did this code successfully run on Leetcode : Yes
 // Any problem you faced while coding this : No
 
